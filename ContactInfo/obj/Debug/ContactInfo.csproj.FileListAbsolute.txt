@@ -1,0 +1,6 @@
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\obj\Debug\ContactInfo.csprojResolveAssemblyReference.cache
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\bin\ContactInfo.dll.config
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\bin\ContactInfo.dll
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\bin\ContactInfo.pdb
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\obj\Debug\ContactInfo.dll
+c:\users\taterao\documents\visual studio 2015\Projects\ContactInfo\ContactInfo\obj\Debug\ContactInfo.pdb
